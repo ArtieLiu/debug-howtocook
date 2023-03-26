@@ -1,3 +1,3 @@
 pip3 install -r requirements.txt
-mkdocs build
+mkdocs -v build
 mkdocs serve
